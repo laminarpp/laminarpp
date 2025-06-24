@@ -1,4 +1,7 @@
-# Yeonwoo Kim
+<h1 align="center">
+  <img src="https://img.shields.io/badge/Yeonwoo%20Kim-000000?style=flat&logo=github&logoColor=white" alt="Yeonwoo Kim" />
+</h1>
+
 
 ## 📬 Contact
 
@@ -6,7 +9,7 @@
   <a href="mailto:ppuri05@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://velog.io/@<!-- your_velog_id -->" target="_blank">
+  <a href="https://velog.io/@man506828/posts" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog"/>
   </a>
 </p>
