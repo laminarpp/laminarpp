@@ -3,7 +3,7 @@
 ## 📬 Contact
 
 <p align="left">
-  <a href="mailto:<!-- ppuri05@naver.com -->" target="_blank">
+  <a href="mailto:ppuri05@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://www.instagram.com/<!-- your_instagram_id -->" target="_blank">
