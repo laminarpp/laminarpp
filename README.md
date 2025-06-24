@@ -6,9 +6,6 @@
   <a href="mailto:ppuri05@naver.com" target="_blank">
     <img src="https://img.shields.io/badge/email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
-  <a href="https://www.instagram.com/<!-- your_instagram_id -->" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
   <a href="https://velog.io/@<!-- your_velog_id -->" target="_blank">
     <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" alt="velog"/>
   </a>
